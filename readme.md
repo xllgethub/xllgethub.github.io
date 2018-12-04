@@ -18,7 +18,6 @@
 <!--<meta charset="UFT-8">-->
 
 # 动态网站服务器环境
-
 * Internet Information Service (Windows + .Net)
 * Apache (Open Source)
 * Ngix
