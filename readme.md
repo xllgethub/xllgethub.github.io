@@ -35,4 +35,3 @@ More info: [Generating](https://hexo.io/docs/generating.html)
 ``` bash
 作业一：个人教案（信息技术）
 ```
-More info: [Deployment](https://hexo.io/docs/deployment.html)
